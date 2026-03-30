@@ -1,0 +1,33 @@
+# 用户特定文件和 IDE 设置
+.vs/
+*.user
+*.suo
+*.userprefs
+*.resx
+*.user
+*.sln
+
+# 编译输出目录
+bin/
+obj/
+Properties/
+
+# 运行时生成的文件
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# 应用程序配置文件（可能包含用户路径、密钥等）
+config.json
+
+# 临时文件
+*.tmp
+*.cache
+
+# 发布输出
+publish/
+
+# 忽略系统文件
+Thumbs.db
+.DS_Store
